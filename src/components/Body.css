@@ -1,0 +1,64 @@
+.body{
+    background-color: #F2F5FD;
+    width: 831px;
+    height: 402px;
+    margin-top: 27px;
+    margin-left: 161px;
+    border-radius: 17px;
+}
+.para{
+    position: absolute;
+    width: 313px;
+    height: 65px;
+    margin-top: 42px;
+    margin-left: 21px;
+}
+.instr1{
+    position: absolute;
+    display: inline-block;
+    width: 464px;
+    margin-top: 143px;
+    margin-left: 18px;
+}
+.instr2{
+    position: absolute;
+    margin-top: 189px;
+    margin-left: 18px;
+}
+#list{
+    width: 85px;
+}
+#chmp1{
+    width: 85px; 
+}
+#chmp2{
+    width: 67px;
+}
+button{
+    position: absolute;
+    width: 108px;
+    height: 34px;
+    margin-top: 272px;
+    margin-left: 137px;
+    color: white;
+    border: none;
+    background-color: #316EEA;
+    border-radius: 6px;
+    display: inline-block;
+    
+}
+.img{
+    margin-left: 459px;
+    padding: 20px;
+}
+text{
+    font-size: 17px;
+}
+label{
+    font-size: 17px;
+}
+
+input{
+    margin-left: 2px;
+    margin-right: 2px;
+}

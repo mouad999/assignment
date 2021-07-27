@@ -1,0 +1,16 @@
+.header{
+    margin-right: 161px;
+    margin-left: 160px;
+    margin-top: 20px;
+}
+.me-auto{
+    margin-left: 620px;
+}
+.headline{
+    margin-left: 508px;
+    margin-right: 498px;
+    margin-top: 44px;
+}
+*{
+    font-family: 'Poppins'
+}

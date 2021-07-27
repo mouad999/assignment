@@ -1,0 +1,49 @@
+.footer{
+    position: absolute;
+    display: flex;
+    margin-left: 161px;
+    margin-top: 2px;
+    margin-bottom: 300px;
+}
+.BTC{
+    width: 228px;
+    height: 72.21px;
+    border-radius: 13px;
+    padding: 8px;
+    align-items: center;
+}
+.ETH{
+    width: 228px;
+    height: 72.21px;
+    border-radius: 13px;
+    padding: 8px;
+    align-items: center;
+}
+.ADA{
+    width: 228px;
+    height: 72.21px;
+    border-radius: 13px;
+    padding: 8px;
+    align-items: center;
+}
+.DOGE{
+    width: 228px;
+    height: 72.21px;
+    border-radius: 13px;
+    padding: 8px;
+    align-items: center;
+}
+.XRP{
+    width: 228px;
+    height: 72.21px;
+    border-radius: 13px;
+    padding: 8px;
+    align-items: center;
+}
+p {
+    text-align: center;
+  }
+#prc{
+    font-size: 21px;
+    font-weight: 700;
+}
